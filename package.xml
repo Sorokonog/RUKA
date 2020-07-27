@@ -2,7 +2,7 @@
 <package>
   <name>ruka</name>
   <version>0.0.1</version>
-  <description>Python cdriver TurtleBro RUKA via EasyHID</description>
+  <description>Python driver TurtleBro RUKA via EasyHID</description>
 
   <maintainer email="romanbt405@gmail.com">Roman Shcherbov</maintainer>
   <license>CISST</license>
